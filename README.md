@@ -2,7 +2,9 @@
 Este proyecto tiene como objetivo analizar los datos históricos de los equipos que participarán en el Mundial de FIFA 2022 y utilizar técnicas de modelado para predecir los resultados de los partidos.
 
 ## Datos
-Los datos utilizados en este proyecto fueron obtenidos de la base de datos de la FIFA y de otras fuentes públicas. Se utilizó Python y diversas bibliotecas de análisis de datos para limpiar y preparar los datos para su análisis.
+
+Los datos utilizados en este proyecto han sido obtenidos de Wikipedia y están sujetos a la licencia Creative Commons Attribution-ShareAlike (CC BY-SA) 3.0. Esto significa que puedes copiar, distribuir, modificar y utilizar los datos siempre y cuando se atribuya el trabajo original y se distribuya bajo una licencia idéntica o similar. Para obtener más información sobre la licencia, visita la página de Creative Commons en https://creativecommons.org/licenses/by-sa/3.0/legalcode.es. Los datos originales pueden encontrarse en el sitio web de Wikipedia.
+
 
 ## Análisis
 Se realizaron varios análisis estadísticos y visuales de los datos para identificar patrones y tendencias en el rendimiento de los equipos. También se utilizó el aprendizaje automático para entrenar modelos de predicción de partidos.
